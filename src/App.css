@@ -15,7 +15,7 @@
   background-color: #222;
   height: 25%;
   color: white;
-  font-size: 3em;
+  font-size: 10vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,7 +24,7 @@
 .App-content {
   height: 45%;
   padding: 0 20px;
-  font-size: 6em;
+  font-size: 15vw;
   box-sizing: border-box;
   display: flex;
   justify-content: space-around;
